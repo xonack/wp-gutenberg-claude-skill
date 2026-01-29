@@ -1,4 +1,4 @@
-# claude-skill-wp-gutenberg
+# wp-gutenberg-claude-skill
 
 Complete Gutenberg block development skill covering block.json, dynamic blocks, InnerBlocks, block variations, patterns, transforms, @wordpress/scripts, and server-side rendering.
 
@@ -7,7 +7,7 @@ Complete Gutenberg block development skill covering block.json, dynamic blocks, 
 ### Claude Code Plugin Marketplace
 
 ```bash
-/plugin install https://github.com/xonack/claude-skill-wp-gutenberg
+/plugin install https://github.com/xonack/wp-gutenberg-claude-skill
 ```
 
 ### Manual Installation
@@ -30,7 +30,7 @@ Once installed, the skill activates automatically when working on relevant WordP
 ## Structure
 
 ```
-claude-skill-wp-gutenberg/
+wp-gutenberg-claude-skill/
 ├── README.md
 ├── LICENSE
 ├── .claude-plugin/

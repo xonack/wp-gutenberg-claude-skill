@@ -1,5 +1,5 @@
 {
-  "name": "claude-skill-wp-gutenberg",
+  "name": "wp-gutenberg-claude-skill",
   "version": "1.0.0",
   "description": "Complete Gutenberg block development skill covering block.json, dynamic blocks, InnerBlocks, block variations, patterns, transforms, @wordpress/scripts, and server-side rendering.",
   "skills": [
